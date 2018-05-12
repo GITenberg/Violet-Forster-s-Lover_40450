@@ -1,0 +1,40 @@
+_repo: Violet-Forster-s-Lover_40450
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hodgson, E. S. (Edward Smith)
+    aliases:
+    - Hodgson, E.S.
+    - Hodgson, Edward Smith
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '9707'
+    url: http://www.gutenberg.org/2009/agents/9707
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsh, Richard
+    aliases:
+    - Heldmann, Bernard
+    - Heldman, Richard Bernard
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '1718'
+    url: http://www.gutenberg.org/2009/agents/1718
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Marsh_%28author%29
+description: ''
+gutenberg_issued: '2012-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: Violet Forster's Lover
+url: http://www.gutenberg.org/ebooks/40450
